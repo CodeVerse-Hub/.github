@@ -16,10 +16,11 @@
 | Role          | Member            | Specialization           |
 |---------------|-------------------|--------------------------|
 | Tech Lead / Software Engineer / Core Developer | 🧑💻 Bijay BK     | System Architecture / FullStack Developer      |
+| Computer Engineer / Developer | 🧑💻 Sandip Magar  | Cybersecurity / Logic Building / Research          |
 | Computer Engineer     | 🧑💻 Devendra Pandey | Logic Building / Research          |
 | Computer Engineer | 🧑💻 Manish Joshi | Logic Building / Research       |
 | Computer Engineer   | 🧑💻 Pramod Panta  | Logic Building / Research          |
-| Computer Engineer | 🧑💻 Sandip Magar  | Cybersecurity / Logic Building / Research          |
+
 
 ---
 
